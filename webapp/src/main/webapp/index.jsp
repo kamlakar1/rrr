@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
-<body bgcolor="blue">
+<body bgcolor="yellow">
 
 <h1>Hello Rahul! </h1>
-<p><a href="https://www.yahoo.com">Visit Yahoo!</a></p>
+<p><a href="https://www.youtube.com">Visit Youtube!</a></p>
 
 <p>This page helps you to redirect to Google Search Engine</p>
 
